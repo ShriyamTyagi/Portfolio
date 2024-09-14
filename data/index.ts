@@ -156,10 +156,10 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Full Stack Developer Internship at FloData Analytics",
-    desc: "Developed a React dashboard from scratch for a US Based client using JS Mapping library - Leaflet",
-    className: "md:col-span-2",
-    thumbnail: "/exp1.svg",
+    title: "Software Development Engineer at Baazi Games (Curent)",
+    desc: "Building Pokershots, a detailed analysis of a player's performance",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/exp3.svg",
   },
   {
     id: 2,
@@ -170,10 +170,10 @@ export const workExperience = [
   },
   {
     id: 3,
-    title: "Software Development Engineer at Baazi Games",
-    desc: "Building Pokershots, a detailed analysis of a player's performance",
-    className: "md:col-span-2", // change to md:col-span-2
-    thumbnail: "/exp3.svg",
+    title: "Full Stack Developer Internship at FloData Analytics",
+    desc: "Developed a React dashboard from scratch for a US Based client using JS Mapping library - Leaflet",
+    className: "md:col-span-2",
+    thumbnail: "/exp1.svg",
   },
 ];
 
