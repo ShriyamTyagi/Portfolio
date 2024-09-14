@@ -53,16 +53,16 @@ const Hero = () => {
            */}
           <TextGenerateEffect
             words="Transforming Concepts into Seamless User Experiences"
-            className="text-center text-[40px] md:text-5xl lg:text-6xl"
+            className="text-center text-[35px] md:text-4xl lg:text-5xl"
           />
 
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             Hi! I&apos;m Shriyam, a Frontend Web Developer
           </p>
 
-          <a href="#about">
+          <a href="#experience">
             <MagicButton
-              title="Show my work"
+              title="Take a look my work"
               icon={<FaLocationArrow />}
               position="right"
             />
