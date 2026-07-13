@@ -156,20 +156,27 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Development Engineer at Baazi Games (Current)",
+    title: "SDE II at Arrise Solutions (Current)",
+    desc: "Building Live Casino Experience",
+    className: "md:col-span-2", // change to md:col-span-2,
+    thumbnail: "/exp3.svg",
+  },
+  {
+    id: 2,
+    title: "Software Development Engineer at Baazi Games",
     desc: "Building Pokershots, a detailed analysis of a player's performance",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
-    id: 2,
+    id: 3,
     title: "Software Engineer at Stashfin",
     desc: "Developed crucial features like Reverse Penny Drop and Collection portal from scratch. Assisted in the development of new official website in order to improve performance",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
-    id: 3,
+    id: 4,
     title: "Full Stack Developer Internship at FloData Analytics",
     desc: "Developed a React dashboard from scratch for a US Based client using JS Mapping library - Leaflet",
     className: "md:col-span-2",
