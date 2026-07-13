@@ -156,7 +156,7 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Software Development Engineer at Baazi Games (Curent)",
+    title: "Software Development Engineer at Baazi Games (Current)",
     desc: "Building Pokershots, a detailed analysis of a player's performance",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
